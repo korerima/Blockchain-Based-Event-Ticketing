@@ -1,13 +1,13 @@
-# Digital-Event-Ticketing
-Digital Event Ticketing: A hybrid Blockchain based platform for secure ticket purchases, event management, and venue promotion. Solidity backend, React frontend
-# Digital Event Ticketing
+# A Hybrid Blockchain-Based Event Ticketing System
+A hybrid Blockchain-based platform for digital secure ticket purchases, event management, and venue promotion. Solidity backend, React frontend
 
-Digital Event Ticketing is a hybrid blockchain-based digital ticketing system designed to streamline the process of ticket purchasing, event management, and venue promotion. Built on Solidity smart contracts for the backend and React for the frontend, Digital Event Ticketing ensures security, transparency, and efficiency in the event ecosystem.
+# A Hybrid Blockchain-Based Event Ticketing System
+This hybrid blockchain-based digital ticketing system is designed to streamline ticket purchasing, event management, and venue promotion. This Event Ticketing system is built on Solidity smart contracts for the backend and React for the frontend, ensuring security, transparency, and efficiency in the event ecosystem.
 
 ## Features
 
 - **Blockchain Security**: Utilizes Solidity smart contracts on the Ethereum blockchain for secure and immutable transactions.
-- **Hybrid Decentralized Ticketing**: Empowers customers to purchase tickets directly from event organizers without intermediaries while the payment prosess remains using bank or credit cards.
+- **Hybrid Decentralized Ticketing**: Empowers customers to purchase tickets directly from event organizers without intermediaries while the payment process remains using bank or credit cards.
 - **Venue Promotion**: Provides venues with a platform to showcase their spaces and attract event organizers.
 - **Event Creation and Management**: Enables event organizers to effortlessly create, manage, and promote events.
 - **User-Friendly Interface**: Offers a sleek and intuitive user interface built with React for seamless ticket purchasing and event browsing.
@@ -26,7 +26,7 @@ To run Decentralized Ticketing locally, follow these steps:
 8. Install Metamask 
 9. Connect the metamask network with your ganache network
 
-For in depth installing instruction refer the following videos:
+For in-depth installation instruction refer to the following videos:
 
 1. Connect Ganache to Metamask
 https://youtu.be/lv4HEyiw4EQ?si=LBABZD2ZtIiMjdrY
